@@ -1,25 +1,8 @@
 {
   "versions": [
-     {
-      "version": "1.2.7",
-      "date": "2025-03-09",
-      "downloadUrl": "https://drive.google.com/drive/folders/1Jox0pQw1FC9BWnZcyi0x-98tjLBV7Rzk?usp=sharing",
-      "changes": ["Тес2222т", "Тееее222ст"]
-    },
+     
     {
-      "version": "1.2.5",
-      "date": "2025-03-08",
-      "downloadUrl": "https://drive.google.com/drive/folders/1Jox0pQw1FC9BWnZcyi0x-98tjLBV7Rzk?usp=sharing",
-      "changes": ["Тес2222т", "Тееее222ст"]
-    },
-      {
-      "version": "1.1.1",
-      "date": "2025-03-07",
-      "downloadUrl": "https://drive.google.com/drive/folders/1Jox0pQw1FC9BWnZcyi0x-98tjLBV7Rzk?usp=sharing",
-      "changes": ["Тест", "Теееест"]
-    },
-    {
-      "version": "1.1.0",
+      "version": "1.0.0",
       "date": "2025-03-06",
       "downloadUrl": "https://drive.google.com/drive/folders/1Jox0pQw1FC9BWnZcyi0x-98tjLBV7Rzk?usp=sharing",
       "changes": ["Описание изменений 1", "Описание изменений 2"]
